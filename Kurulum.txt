@@ -1,0 +1,16 @@
+Uygulamalar
+Python https://www.python.org
+Visual Studio Code : https://code.visualstudio.com
+Visual Studioda ayrıca eklentilereim bölümünden pyhton yüklemelisiniz
+
+Rarı masa üstüne cıkardın kurulumlar bitikten sonra Visual stüdyoya girip klasör seç diyip masa üstüne cıkardıgımız dosyayı seçin ve main.py a tıklayın
+vanity istediginiz url
+server_id url alıcagınız 14 boostlu sunucunuzun id si
+user_cookie hesap tokeni yazdıgınız tokenin üsteki idsini aldıgınız sunucuda olması geerekir
+webhook_url sunucu ayarlarından bir webhook acıp url sini buraya yapıştırın size dicord üzerinden bilgileendirme yapacaktır 
+bunları yaptıktan sonra main.py da sag üsteki start tusuna basarsanız bot başlar
+
+OLASI HATALAR 
+terminalde çogu satan alan kişide requests hatası olabiliyor bir modul hatasıdır terminale pip install -r .\requirements.txt yazarsanız modüllerin hepsini indirir
+
+BAŞKA BİR HATA ALIYORSANIZ İTETM SATIŞ ÜZERİNDEN İLEETİŞİMEE GEÇİN
